@@ -1,4 +1,4 @@
-## ANALYSIS & PLOTTING FOR HA RBS DEEP MUTATIONAL SCANNING EXPERIMENTS
+## ANALYSIS FOR HA RBS DEEP MUTATIONAL SCANNING EXPERIMENTS
 This study aims to examine the functional sequence diversity and epistasis of influenza A virus hemagglutinin (HA) receptor-binding site (RBS). Deep mutational scanning experiment was performed for the HA RBS of two strains, namely A/WSN/33 (H1N1) and A/Hong Kong/1/1968 (H3N2). The experiment probed for the fitness effect of mutants that contain up to three amino-acid substitutions.
 
 ### FILE
@@ -34,4 +34,4 @@ This study aims to examine the functional sequence diversity and epistasis of in
   * Output file: graph/WSN\_MaxFitMut\_\*.png
 * script/WSN\_HARBS\_CrypticBen.R: Plot the maximum beneficial effect for a given substitution of interest (max. RF increase) among all genetic backgrounds
   * Input file: result/WSN\_crypticben.tsv
-  * Output file: WSN\_CrypticBen\*png
+  * Output file: WSN\_CrypticBen\*.png
