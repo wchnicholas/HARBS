@@ -52,4 +52,4 @@ FitnessQCplot <- function(Single, Double, Triple, graphname, h, w){
 Single <- read.table('result/WSN_SingleMutLib.count', header=1)
 Double <- read.table('result/WSN_DoubleMutLib.count', header=1)
 Triple <- read.table('result/WSN_TripleMutLib.count', header=1)
-FitnessQCplot(Single, Double, Triple, 'graph/WSN_FitQC_stripchart.png', 3, 3.5)
+FitnessQCplot(Single, Double, Triple, 'graph/WSN_FitQC_stripchart.png', 3, 2)
