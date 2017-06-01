@@ -82,7 +82,7 @@ This study aims to examine the functional sequence diversity and epistasis of in
 * script/EpisPlot.R: Compare reciprocal sign epistasis by barplot and perform Fisher's exact test
   * Input file: result/EpisCountAroundWT.tsv
   * Output file: 
-    * graphgraph/WSN\_EpisCount.png
+    * graph/WSN\_EpisCount.png
     * graph/HK68\_EpisCount.png
 
 * script/HARBS\_compare.R: Compare RF index of a given variant in WSN and HK68 backgrounds
