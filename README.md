@@ -1,3 +1,6 @@
+This README describes the scripts used for the analyses in:
+[Diversity of functionally permissive sequences in the receptor-binding site of influenza hemagglutinin](http://www.cell.com/cell-host-microbe/abstract/S1931-3128(17)30204-4)
+
 ## ANALYSIS FOR HA RBS DEEP MUTATIONAL SCANNING EXPERIMENTS
 This study aims to examine the functional sequence diversity and epistasis of influenza A virus hemagglutinin (HA) receptor-binding site (RBS). Deep mutational scanning experiment was performed for the HA RBS of two strains, namely A/WSN/33 (WSN; H1N1) and A/Hong Kong/1/1968 (HK68; H3N2). The experiment probed for the fitness effect of mutants that contain up to three amino-acid substitutions.
 
