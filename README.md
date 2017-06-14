@@ -1,4 +1,4 @@
-This README describes the scripts used for the analyses in:
+This README describes the scripts used for the analyses in:   
 [Diversity of functionally permissive sequences in the receptor-binding site of influenza hemagglutinin](http://www.cell.com/cell-host-microbe/abstract/S1931-3128(17)30204-4)
 
 ## ANALYSIS FOR HA RBS DEEP MUTATIONAL SCANNING EXPERIMENTS
