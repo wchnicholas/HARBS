@@ -12,9 +12,9 @@ This study aims to examine the functional sequence diversity and epistasis of in
   * WSN double mutant passaged library: fastq/WSN\_HARBS-2\_S13\_L001\_R1\_001.fastq and fastq/WSN\_HARBS-2\_S13\_L001\_R2\_001.fastq
   * WSN triple mutant input library: fastq/WSN\_HARBS-3\_S14\_L001\_R1\_001.fastq and fastq/WSN\_HARBS-3\_S14\_L001\_R2\_001.fastq
   * WSN triple mutant passaged library: fastq/WSN\_HARBS-6\_S17\_L001\_R1\_001.fastq and fastq/WSN\_HARBS-6\_S17\_L001\_R2\_001.fastq
-  * HK68 triple mutant input library: fastq/HK68-Tlib-1\_S1\_L001\_R1\_001.fastq
-  * HK68 triple mutant passaged library (round 1): fastq/HK68-Tlib-2\_S2\_L001\_R1\_001.fastq
-  * HK68 triple mutant passaged library (round 2): fastq/HK68-Tlib-3\_S3\_L001\_R1\_001.fastq
+  * HK68 triple mutant input library: fastq/HK68-Tlib-1\_S1\_L001\_R1\_001.fastq and fastq/HK68-Tlib-1\_S1\_L001\_R2\_001.fastq
+  * HK68 triple mutant passaged library (round 1): fastq/HK68-Tlib-2\_S2\_L001\_R1\_001.fastq and fastq/HK68-Tlib-2\_S2\_L001\_R2\_001.fastq
+  * HK68 triple mutant passaged library (round 2): fastq/HK68-Tlib-3\_S3\_L001\_R1\_001.fastq and fastq/HK68-Tlib-3\_S3\_L001\_R2\_001.fastq
 
 ### ANALYSIS PEPLINE
 #### FOR WSN
