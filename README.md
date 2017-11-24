@@ -5,7 +5,7 @@ This README describes the scripts used for the analyses in:
 This study aims to examine the functional sequence diversity and epistasis of influenza A virus hemagglutinin (HA) receptor-binding site (RBS). Deep mutational scanning experiment was performed for the HA RBS of two strains, namely A/WSN/33 (WSN; H1N1) and A/Hong Kong/1/1968 (HK68; H3N2). The experiment probed for the fitness effect of mutants that contain up to three amino-acid substitutions.
 
 ### INPUT FILE
-* All sequencing raw reads, which can be downloaded from NIH SRA database [PRJNA353496](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA353496), should be placed in fastq/folder:
+* All sequencing raw reads, which can be downloaded from NIH SRA database [PRJNA353496](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA353496), should be placed in fastq/ folder:
   * WSN single mutant input library: fastq/WSN\_HARBS-1\_S12\_L001\_R1\_001.fastq and fastq/WSN\_HARBS-1\_S12\_L001\_R2\_001.fastq
   * WSN single mutant passaged library: fastq/WSN\_HARBS-4\_S15\_L001\_R1\_001.fastq and fastq/WSN\_HARBS-4\_S15\_L001\_R2\_001.fastq
   * WSN double mutant input library: fastq/WSN\_HARBS-5\_S16\_L001\_R1\_001.fastq and fastq/WSN\_HARBS-5\_S16\_L001\_R2\_001.fastq
